@@ -1,0 +1,26 @@
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-size: 2em;
+  }
+  
+.icon-lg {
+    font-size: 1.333em;
+}
+  
+  .x3 {
+    font-size: 3em;
+  }
+  
+  .x4 {
+    font-size: 4em;
+  }
+  
+
+.icon3d-bookmark {
+  background-image: url('../icons/3d/bookmark.png');
+}
